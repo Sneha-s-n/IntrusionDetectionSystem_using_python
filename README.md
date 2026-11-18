@@ -1,4 +1,4 @@
-🛡️ Hybrid Intrusion Prevention System (IPS) & Live SOC Dashboard
+🛡️ Hybrid Intrusion Detection System (IDS) & Live SOC Dashboard
 
 A real-time network security and active threat containment application built in **Python**. This project upgrades a traditional passive Intrusion Detection System (IDS) into an active **Intrusion Prevention System (IPS)** by combining signature-based packet inspection, unsupervised machine learning anomaly detection, automated **Windows Defender Firewall** blocking, and a live **Flask Security Operations Center (SOC)** web dashboard.
 
@@ -79,8 +79,8 @@ IntrusionDetectionSystem/
 
 ### 2. Clone the Repository & Install Dependencies
 ```bash
-git clone https://github.com<your-username>/Hybrid-Intrusion-Prevention-System.git
-cd Hybrid-Intrusion-Prevention-System
+git clone https://github.com/Sneha-s-n/IntrusionDetectionSystem_using_python.git
+cd IntrusionDetectionSystem_using_python
 pip install scapy scikit-learn numpy flask
 ```
 
