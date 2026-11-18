@@ -21,7 +21,8 @@ Interactive SOC Web Dashboard:*
 
 🏗️ System Architecture
 
-[External Network Traffic / Kali Linux Attacker]
+---
+External Network Traffic / Kali Linux Attacker]
                        │
                        ▼
       ┌─────────────────────────────────┐
@@ -50,6 +51,7 @@ Interactive SOC Web Dashboard:*
       │     Flask Web SOC Dashboard     │
       │  Live Metrics, Unblock & CSV    │
       └─────────────────────────────────┘
+ ---
  
  📂 Project Structure
  
