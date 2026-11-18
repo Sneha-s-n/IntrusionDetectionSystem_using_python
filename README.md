@@ -19,40 +19,6 @@ Interactive SOC Web Dashboard:*
   * **Firewall Blocklist Manager** to manually block or unblock IPs with one click.
   * **CSV Security Report Export** for incident auditing and documentation.
 
-🏗️ System Architecture
-
----
-External Network Traffic / Kali Linux Attacker]
-                       │
-                       ▼
-      ┌─────────────────────────────────┐
-      │   Packet Capture Engine (Scapy) │
-      │   Layer-3 Socket Interface Bind │
-      └────────────────┬────────────────┘
-                       │
-        ┌──────────────┴──────────────┐
-        ▼                             ▼
-┌───────────────────┐         ┌───────────────────┐
-│ Signature Engine  │         │  Anomaly Engine   │
-│  (SYN Scan/Flood  │         │ (Isolation Forest │
-│  Rate Threshold)  │         │   Unsupervised)   │
-└─────────┬─────────┘         └─────────┬─────────┘
-          │                             │
-          └──────────────┬──────────────┘
-                         ▼
-      ┌─────────────────────────────────┐
-      │   Automated Response & Logging  │
-      │ • Windows Firewall Rule (netsh) │
-      │ • ids_alerts.log & blocked.json │
-      └────────────────┬────────────────┘
-                       │
-                       ▼
-      ┌─────────────────────────────────┐
-      │     Flask Web SOC Dashboard     │
-      │  Live Metrics, Unblock & CSV    │
-      └─────────────────────────────────┘
- ---
- 
  📂 Project Structure
  
 IntrusionDetectionSystem/
