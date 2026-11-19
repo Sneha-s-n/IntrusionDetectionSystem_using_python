@@ -1,0 +1,62 @@
+Timestamp,Severity,Source/Attacker IP,Target Port,Detection Engine,Alert Details
+"2026-11-18 21:04:06,814",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 75 bytes, Flags: 24)"
+"2026-11-18 21:04:06,473",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:04:06,089",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 98 bytes, Flags: 24)"
+"2026-11-18 21:04:06,021",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1551 bytes, Flags: 24)"
+"2026-11-18 21:04:06,017",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1551 bytes, Flags: 24)"
+"2026-11-18 21:04:05,977",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 125 bytes, Flags: 24)"
+"2026-11-18 21:04:05,974",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 125 bytes, Flags: 24)"
+"2026-11-18 21:04:01,505",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 20)"
+"2026-11-18 21:04:01,479",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 17)"
+"2026-11-18 21:04:01,408",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:04:01,381",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:04:01,354",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 154 bytes, Flags: 24)"
+"2026-11-18 21:04:01,318",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 120 bytes, Flags: 24)"
+"2026-11-18 21:04:01,273",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 120 bytes, Flags: 24)"
+"2026-11-18 21:04:01,222",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:04:01,137",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:04:01,062",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 510 bytes, Flags: 24)"
+"2026-11-18 21:04:01,061",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 510 bytes, Flags: 24)"
+"2026-11-18 21:04:00,982",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:59,287",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 75 bytes, Flags: 24)"
+"2026-11-18 21:03:59,260",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:59,206",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:59,156",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:59,047",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:58,339",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:58,314",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 2038 bytes, Flags: 24)"
+"2026-11-18 21:03:58,284",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 2038 bytes, Flags: 24)"
+"2026-11-18 21:03:58,220",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 804 bytes, Flags: 24)"
+"2026-11-18 21:03:58,212",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 804 bytes, Flags: 24)"
+"2026-11-18 21:03:58,181",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 132 bytes, Flags: 24)"
+"2026-11-18 21:03:58,144",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 104 bytes, Flags: 24)"
+"2026-11-18 21:03:58,123",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:58,113",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1340 bytes, Flags: 24)"
+"2026-11-18 21:03:58,091",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1340 bytes, Flags: 24)"
+"2026-11-18 21:03:58,070",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1180 bytes, Flags: 24)"
+"2026-11-18 21:03:58,048",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 1180 bytes, Flags: 24)"
+"2026-11-18 21:03:58,018",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 79 bytes, Flags: 24)"
+"2026-11-18 21:03:57,946",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 120 bytes, Flags: 24)"
+"2026-11-18 21:03:57,944",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 120 bytes, Flags: 24)"
+"2026-11-18 21:03:57,883",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 2137 bytes, Flags: 24)"
+"2026-11-18 21:03:57,881",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 2137 bytes, Flags: 24)"
+"2026-11-18 21:03:57,818",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:56,567",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 41 bytes, Flags: 16)"
+"2026-11-18 21:03:54,062",WARNING,192.168.45.163,5228,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 5228 (Size: 41 bytes, Flags: 16)"
+"2026-11-18 21:03:44,922",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 20)"
+"2026-11-18 21:03:44,921",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 20)"
+"2026-11-18 21:03:44,894",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 16)"
+"2026-11-18 21:03:44,281",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 40 bytes, Flags: 17)"
+"2026-11-18 21:03:41,670",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 41 bytes, Flags: 16)"
+"2026-11-18 21:03:40,779",WARNING,192.168.45.163,443,Isolation Forest ML,"Anomalous TCP traffic from 192.168.45.163 targeting port 443 (Size: 41 bytes, Flags: 16)"
+"2026-11-18 20:37:35,619",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:37:16,197",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:32:32,430",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:32:23,880",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:32:09,282",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:32:02,091",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:30:53,401",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-18 20:30:12,528",CRITICAL,192.168.45.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.45.163 (16 SYNs in 10s)
+"2026-11-17 22:53:09,736",CRITICAL,192.168.86.163,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.86.163 (16 SYNs in 10s)
+"2026-11-17 22:35:02,919",BLOCKED,192.168.86.204,Multiple / N/A,Windows Firewall IPS,FIREWALL ACTION: Automatically blocked malicious IP 192.168.86.204
+"2026-11-17 22:35:02,722",CRITICAL,192.168.86.204,Multiple / N/A,Signature Engine,Potential SYN Scan/Flood detected from 192.168.86.204 (16 SYNs in 10s)
